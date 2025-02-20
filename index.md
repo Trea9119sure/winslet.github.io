@@ -14,7 +14,7 @@ description: Development of an Upper Limb Exercise System for Children with Cere
 
 
 <div align="center">
-  <img src="concept.jpeg" width="40%" alt="訓練系統示意圖">
+  <img src="concept.jpeg" width="50%" alt="訓練系統示意圖">
 </div>
 
 ---
