@@ -11,7 +11,7 @@ description: Development of an Upper Limb Exercise System for Children with Cere
 在這個專案中，我們開發了一款 **混合實境 (MR) 肌力訓練系統**，專為 **腦性麻痺兒童** 設計，目標是 **提升復健訓練的趣味性與效果**。透過 **Unity** 和 **C#**，我們結合 **HoloLens 2**，讓使用者能在 **虛實融合的環境** 中進行肌力訓練，提升動作協調能力。
 
 <div align="center">
-  <img src="concept.jpg" width="80%" alt="訓練系統示意圖">
+  <img src="concept.jpg" width="20%" alt="訓練系統示意圖">
 </div>
 
 ---
