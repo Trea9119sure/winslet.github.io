@@ -7,7 +7,7 @@ description: Development of an Upper Limb Exercise System for Children with Cere
 ## 🎓 我的畢業專題：混合實境肌力訓練系統  
 ✨ **榮獲 2023 年「國家金腦盃創新發明競賽」銀牌獎！**  
 
-### 🌟 **專案介紹**
+#### 🌟 **專案介紹**
 在這個專案中，我們開發了一款 **混合實境 (MR) 肌力訓練系統**，專為 **腦性麻痺兒童** 設計，目標是 **提升復健訓練的趣味性與效果**。透過 **Unity** 和 **C#**，我們結合 **HoloLens 2**，讓使用者能在 **虛實融合的環境** 中進行肌力訓練，提升動作協調能力。
 
 <div align="center">
