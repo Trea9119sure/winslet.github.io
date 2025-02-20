@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 我的畢業專題
+description: 使用混合實境技術提升腦性麻痺兒童的復健效果
 ---
 
 # 🎓 我的畢業專題：混合實境肌力訓練系統  
@@ -51,7 +52,3 @@ title: 我的畢業專題
   <p>如果你對這個專案有興趣，歡迎與我聯繫！</p>
   <a href="mailto:your-email@example.com" style="font-size: 20px; background-color: #0078D7; color: white; padding: 10px 20px; border-radius: 8px; text-decoration: none;">📧 聯絡我</a>
 </div>
-
-
-
-
