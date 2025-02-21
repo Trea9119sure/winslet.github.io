@@ -35,7 +35,7 @@ description: Development of an Upper Limb Exercise System for Children with Cere
 📌 **擴展系統語言支持**：計劃增加更多語言選項，使系統能夠更具國際化，造福更多有需求的群體  
 
 ---  
-📌 **GitHub Repo**：[https://github.com/Trea9119sure]
-📌 **Demo Video**：[https://youtu.be/jIEGq1-EnqU]
-📌 **聯絡方式**：[winniel910109@gmail.com]
+📌 **GitHub Repo**：[https://github.com/Trea9119sure] 
+📌 **Demo Video**：[https://youtu.be/jIEGq1-EnqU]    
+📌 **聯絡方式**：[winniel910109@gmail.com] 
 
