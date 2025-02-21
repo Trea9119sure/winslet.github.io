@@ -36,5 +36,5 @@ description: Development of an Upper Limb Exercise System for Children with Cere
 
 ---  
 📌 **GitHub Repo**：[你的 GitHub 連結]  
-📌 **Demo Video**：https://youtu.be/jIEGq1-EnqU 
-📌 **聯絡方式**：winniel910109@gmail.com
+📌 **Demo Video**：[https://youtu.be/jIEGq1-EnqU] 
+📌 **聯絡方式**：[winniel910109@gmail.com]
